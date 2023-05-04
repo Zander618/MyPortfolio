@@ -40,7 +40,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-            LinkedIn
+            <button>LinkedIn</button>
           </a>{" "}
         </div>
         <br />
@@ -57,7 +57,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Dev Blog
+            <button>Dev Blog</button>
           </a>{" "}
         </div>
         <br />
@@ -74,7 +74,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-            GitHub
+            <button>GitHub</button>
           </a>{" "}
         </div>
       </div>

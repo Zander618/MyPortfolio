@@ -18,16 +18,19 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          Friendo
+          <button>Friendo</button>
         </a>{" "}
-        <p>about this app</p>
+        <p>A web application that allows users to add their dogs
+          to a database where they can search through other user's added dogs
+          to schedule play dates to make friends and become more social. 
+        </p>
         </div>
         <br />
         <br />
         <div class="side">
         <img
             className="App-picture"
-            src="Co-opper.png"
+            src="BetterCo-opper.png"
             alt="Co-opper App"
           />
           <br />
@@ -36,9 +39,12 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          Co-opper
+          <button>Co-opper</button>
         </a>{" "}
-        <p>about this app</p>
+        <p>A web application that allows users to add strictly co-op video
+          games. The users are then allowed to create, edit and delete reviews for
+          video games they have played.
+        </p>
         </div>
         <br />
         <br />
@@ -54,9 +60,11 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          GhibliRepo
+          <button>GhibliRepo</button>
         </a>{" "}
-        <p>about this app</p>
+        <p>A web application that pulls from an external api to diplay the complete collection
+          of a famous Japanese animated production company, Studio Ghibli.
+        </p>
         </div>
         </div>
       </div>
