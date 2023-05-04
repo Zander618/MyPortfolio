@@ -14,8 +14,16 @@
 }
 
 .App-picture {
-  height: 400px;
-  width: 500px;
+  height: 300px;
+  width: 400px;
+  border: rgb(22, 19, 19);
+  border-radius: 2ch;
+  border-width: 8;
+}
+
+.Logo-picture {
+  height: 50px;
+  width: 50px;
   border: rgb(22, 19, 19);
   border-radius: 2ch;
   border-width: 8;
@@ -49,4 +57,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  display: flex;
+  width: flex;
+}
+
+.side {
+  flex: 1;
+  padding: 10px;
+}
+
+.side-content-center {
+  text-align: center;
+  word-wrap: normal;
+  margin: 80px;
+
 }
