@@ -34,6 +34,7 @@ const About = () => {
             src="LinkedIn_logo_initials.png"
             alt="linkedin logo"
           />
+          <br />
           <a
             href="https://www.linkedin.com/in/zachary-sirna/"
             target="_blank"
@@ -50,6 +51,7 @@ const About = () => {
             src="resized_logo_UQww2soKuUsjaOGNB38o.png"
             alt="dev blog logo"
           />
+          <br />
           <a
             href="https://dev.to/zander618"
             target="_blank"
@@ -62,10 +64,11 @@ const About = () => {
         <br />
         <div class="side">
         <img
-            className="Logo-picture"
+          className="Logo-picture"
             src="GitHub-Mark.png"
             alt="octocat"
           />
+          <br />
           <a
             href="https://github.com/Zander618"
             target="_blank"

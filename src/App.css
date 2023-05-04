@@ -21,6 +21,14 @@
   border-width: 8;
 }
 
+.Project-picture {
+  height: 200px;
+  width: 200px;
+  border: rgb(22, 19, 19);
+  border-radius: 2ch;
+  border-width: 8;
+}
+
 .Logo-picture {
   height: 50px;
   width: 50px;
