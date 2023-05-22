@@ -26,7 +26,6 @@ const Projects = () => {
               <li>Acitve Storage</li>
               <li>Ruby on Rails</li>
               <li>Google Cloud Storage</li>
-              <li>Active Storage</li>
             </ul>
             <p>Demo account sign in information</p>
             <p>Username: Demo</p>
@@ -56,6 +55,7 @@ const Projects = () => {
             <ul>
               <li>React.js</li>
               <li>Ruby on Rails</li>
+              <li>Active Storage</li>
             </ul>
             <p>Demo account sign in information</p>
             <p>Username: Demo</p>
