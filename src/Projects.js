@@ -23,6 +23,7 @@ const Projects = () => {
             </p>
             <ul>
               <li>React.js</li>
+              <li>useContext</li>
               <li>Acitve Storage</li>
               <li>Ruby on Rails</li>
               <li>Google Cloud Storage</li>
