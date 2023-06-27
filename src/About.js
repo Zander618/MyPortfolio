@@ -16,7 +16,8 @@ const About = () => {
           <p>
             I am an experienced Full Stack Developer with a strong background in
             frontend and backend languages such as Ruby, Ruby on Rails,
-            JavaScript, and React.js. As a musician with a passion for audio
+            JavaScript, React.js, and TypeScript. After gaining my software engineering certificate from Flatiron School
+            I have continued practicing and learning. As a musician with a passion for audio
             production, I transitioned to a career as a lead AV Technician,
             bringing over 7 years of experience in problem-solving and
             collaboration to each project. My unique perspective allows me to
